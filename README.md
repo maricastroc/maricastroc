@@ -19,7 +19,7 @@
 <br />• Send me a message here! [Mariana's Linkedin Profile](https://www.linkedin.com/in/mariana-castro-297586264/)
 <br />• Pronouns: she/her
 
-⚡ Fun fact: My best projects ideas always come up while I'm running.
+⚡ Fun fact: My best project ideas always come up while I'm running.
 
 <!--
 **maricastroc/maricastroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
