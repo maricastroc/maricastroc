@@ -1,6 +1,6 @@
 Hello there! 👋
 
-I'm Mariana Castro and a Front-End Developer and Graphic Designer. 💻
+💻 I'm Mariana Castro and a Front-End Developer and Graphic Designer.
 
 🔭 I'm currently working with:
 • HTML/CSS/JS
