@@ -1,4 +1,4 @@
-Hello there! 👋
+## Hello there! 👋
 
 💻 I'm Mariana Castro and a Front-End Developer and Graphic Designer.
 
