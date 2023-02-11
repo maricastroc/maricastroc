@@ -3,16 +3,19 @@ Hello there! 👋
 💻 I'm Mariana Castro and a Front-End Developer and Graphic Designer.
 
 🔭 I'm currently working with:
+<br />
 <br />• HTML/CSS/JS
 <br />• UX/UI Design with Figma
 <br />• Photoshop | Illustrator | InDesign
 
 🌱 I'm currently learning:
+<br />
 <br />• ReactJS
 <br />• Typescript
 <br />• Scrum
 
 📫 How to reach me:
+<br />
 <br />Send me a message here! [Mariana's Linkedin Profile](https://www.linkedin.com/in/mariana-castro-297586264/)
 <br />Pronouns: she/her
 
