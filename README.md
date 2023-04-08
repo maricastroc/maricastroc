@@ -20,14 +20,15 @@
 🔭 I'm currently working with:
 <br />
 <br />• HTML/CSS/JS
-<br />• UX/UI Design with Figma
+<br />• ReactJS
+<br />• TypeScript
 <br />• Photoshop | Illustrator | InDesign
 
 🌱 I'm currently learning:
 <br />
-<br />• ReactJS
-<br />• Typescript
+<br />• Next.js
 <br />• Scrum
+<br />• UX/UI Design with Figma
 
 📫 How to reach me:
 <br />
