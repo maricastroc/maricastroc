@@ -26,11 +26,13 @@
 <br />• Tailwind CSS
 <br />• Bootstrap
 <br />
+
 🌱 I'm currently learning:
 <br />
 <br />• React Native
 <br />• UX/UI Design with Figma
 <br />
+
 📫 How to reach me:
 <br />
 <br />• Send me a message here! [Mariana's Linkedin Profile](https://www.linkedin.com/in/mariana-castro-297586264/)
