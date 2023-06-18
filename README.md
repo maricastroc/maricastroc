@@ -21,13 +21,14 @@
 <br />
 <br />• HTML/CSS/JS
 <br />• ReactJS
-<br />• TypeScript
-<br />• Photoshop | Illustrator | InDesign
+<br />• Next.js
+<br />• Javascript & TypeScript
+<br />• Tailwind CSS
+<br />• Bootstrap
 
 🌱 I'm currently learning:
 <br />
-<br />• Next.js
-<br />• Scrum
+<br />• React Native
 <br />• UX/UI Design with Figma
 
 📫 How to reach me:
