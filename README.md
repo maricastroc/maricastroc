@@ -18,25 +18,25 @@
 💻 I'm Mariana Castro and a Front-End Developer and Graphic Designer.
 
 🔭 I'm currently working with:
-<br />
-<br />• HTML/CSS/JS
-<br />• ReactJS
-<br />• Next.js
-<br />• Javascript & TypeScript
-<br />• Tailwind CSS
-<br />• Bootstrap
-<br />
+
+- HTML/CSS/JS
+- ReactJS
+- Next.js
+- Javascript & TypeScript
+- Tailwind CSS
+- Bootstrap
+
 
 🌱 I'm currently learning:
-<br />
-<br />• React Native
-<br />• UX/UI Design with Figma
-<br />
+
+- React Native
+- UX/UI Design with Figma
+
 
 📫 How to reach me:
-<br />
-<br />• Send me a message here! [Mariana's Linkedin Profile](https://www.linkedin.com/in/mariana-castro-297586264/)
-<br />• Pronouns: she/her
+
+- Send me a message here! [Mariana's Linkedin Profile](https://www.linkedin.com/in/mariana-castro-297586264/)
+- Pronouns: she/her
 
 ⚡ Fun fact: My best project ideas always come up while I'm running.
 
@@ -66,7 +66,6 @@
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=maricastroc&show_icons=true&theme=dracula&count_private=true">
- <img width="10px" />
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=maricastroc&layout=compact&theme=dracula">
 </div>
 
