@@ -1,17 +1,4 @@
 # Mariana Castro 🌎
-<a href="https://www.linkedin.com/in/mariana-castro-297586264" rel="nofollow">
-<img src="https://camo.githubusercontent.com/2481196403b93f81f88bd633c255d77b670a1e8a4419f19ff2d2cea2f48cbf2f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6165736d6572616c646f2f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/mariana-castro-297586264/" style="max-width: 100%;">
-</a>
-<a href="mailto:marianacastrorc@gmail.com">
-<img src="https://camo.githubusercontent.com/1af5d6d2a221ff79cefbed1380d911f5e517da363ced924515043d2b7b35a8aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6165736d6572616c646f6640676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:marianacastrorc@gmail.com" style="max-width: 100%;">
-</a>
-<a href="https://www.instagram.com/maricastroc" rel="nofollow">
-<img src="https://camo.githubusercontent.com/7dd1fae7374e9743a768d401d06b23fc6e310b70dc7ae6bb5cc8f0b5a31ed1a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d4331333538343f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d433133353834266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f616c6f6d616e64732f" alt="Instagram Badge" data-canonical-src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&amp;labelColor=C13584&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/maricastroc" style="max-width: 100%;">
-</a>
-<a href="https://twitter.com/marianacastrorc" rel="nofollow">
-<img src="https://camo.githubusercontent.com/10455c1930090eae69a658af953f21ab1fbd4a4d60e895c1e9d5f00ad1228b84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3163613066313f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d316361306631266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f747769747465722e636f6d2f7468656c6164796269726478" alt="Twitter Badge" data-canonical-src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/marianacastrorc" style="max-width: 100%;">
- </a>
-  
 
 ## Hello there! 👋
 
