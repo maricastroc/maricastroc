@@ -1,8 +1,10 @@
-# Mariana Castro 🌎
+# Mariana Castro 👩‍💻
 
-## Hello there! 👋
+👋 Hello there! I’m Mariana, a front-end developer (though, I gotta confess I’ve been flirting with backend lately, so maybe throw in 'PHP enthusiast' too?).
 
-💻 I'm a Web Developer / Graphic Designer.
+ ⚡ I’m super passionate about tech and coding, and when I’m not 100% deep into a project, you’ll probably find me geeking out over new technologies. Oh, and I’m also a big fan of sports, beagles, and dark chocolate with mint (yes, it’s a thing!). I love working in teams and sharing knowledge, so feel free to hit me up for a chat or to brainstorm new ideas.
+
+:runner: Fun fact: my best ideas tend to show up while I’m running and listening to geek culture podcasts!
 
 🔭 I'm currently working with:
 
@@ -13,18 +15,10 @@
 - Bootstrap
 
 
-🌱 I'm currently learning:
-
-- PHP / Laravel
-- UX/UI Design with Figma
-
-
 📫 How to reach me:
 
 - Send me a message here! [Mariana's Linkedin Profile](https://www.linkedin.com/in/mariana-castro-297586264/)
 - Pronouns: she/her
-
-⚡ Fun fact: My best project ideas always come up while I'm running.
 
 <hr>
 
