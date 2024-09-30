@@ -11,6 +11,7 @@
 - ReactJS / React Native / Next.js
 - Javascript & TypeScript
 - PHP / Laravel
+- Mantine
 - Tailwind CSS
 - Bootstrap
 
@@ -39,6 +40,7 @@
             <img height="25" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="git" title="Git " />
             <img height="25" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" title="npm " />
             <img height="25" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn" title="Yarn " />
+            <img height="25" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="yarn" title="Yarn " />
             <img height="25" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite" title="Vite " />
   </div>
 
