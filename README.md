@@ -7,23 +7,13 @@ _(though, I gotta confess I’ve been flirting with backend lately, so maybe thr
 
 :runner: Fun fact: my best ideas tend to show up while I’m running and listening to geek culture podcasts!
 
-🔭 I'm currently working with:
-
-- ReactJS / React Native / Next.js
-- Javascript & TypeScript
-- PHP / Laravel
-- Mantine
-- Tailwind CSS
-- Bootstrap
-
-
 📫 How to reach me:
 
 - Send me a message here! [Mariana's Linkedin Profile](https://www.linkedin.com/in/mariana-castro-297586264/)
 - Pronouns: she/her
 
 <hr>
-
+# Languages and Tools:
 <div style="display: grid; grid-template-columns: repeat(2, 1fr);">
         <div>
             <img height="25" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" title="JavaScript " />
