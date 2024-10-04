@@ -13,7 +13,9 @@ _(though, I gotta confess I’ve been flirting with backend lately, so maybe thr
 - Pronouns: she/her
 
 <hr>
-# Languages and Tools:
+
+## Languages and Tools:
+
 <div style="display: grid; grid-template-columns: repeat(2, 1fr);">
         <div>
             <img height="25" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" title="JavaScript " />
