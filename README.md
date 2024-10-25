@@ -24,6 +24,7 @@ _(though, I gotta confess I’ve been flirting with backend lately, so maybe thr
             <img height="25" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" title="Styled Components " />
          <img height="25" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" title="Bootstrap" />
          <img height="25" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJs" title="NextJs " />
+         <img height="25" src="https://img.shields.io/badge/Mantine-6DA55F?style=for-the-badge&logo=mantine&logoColor=white" alt="vite" title="Vite " />
          </div>
          <div>
             <img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" title="HTML " />
