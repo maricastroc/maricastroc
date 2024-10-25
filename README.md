@@ -23,8 +23,8 @@ _(though, I gotta confess I’ve been flirting with backend lately, so maybe thr
             <img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" title="React " />
             <img height="25" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" title="Styled Components " />
          <img height="25" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" title="Bootstrap" />
-         <img height="25" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJs" title="NextJs " />
-         <img height="25" src="https://img.shields.io/badge/Mantine--35495E?style=for-the-badge&logo=mantine&logoColor=4FC08D" alt="vite" title="Vite " />
+         <img height="25" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJs" title="NextJs" />
+<img height="25" src="https://img.shields.io/badge/Mantine-4FC08D?style=for-the-badge&logo=mantine&logoColor=white" alt="mantine" title="Mantine" />
          </div>
          <div>
             <img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" title="HTML " />
