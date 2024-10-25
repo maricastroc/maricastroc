@@ -40,8 +40,8 @@ _(though, I gotta confess I’ve been flirting with backend lately, so maybe thr
 <hr>
 
 <div>
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=maricastroc&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=maricastroc&layout=compact&theme=dracula">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=maricastroc&show_icons=true&theme=dark&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=maricastroc&layout=compact&theme=dark">
 </div>
 
 <!--
