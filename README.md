@@ -40,10 +40,6 @@ _(though, I gotta confess I’ve been flirting with backend lately, so maybe thr
 
 <hr>
 
-<div>
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=maricastroc&show_icons=true&theme=dark&count_private=true">
-</div>
-
 <!--
 **maricastroc/maricastroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
