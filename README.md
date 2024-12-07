@@ -38,8 +38,6 @@ _(though, I gotta confess I’ve been flirting with backend lately, so maybe thr
             <img height="25" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite" title="Vite " />
   </div>
 
-<hr>
-
 <!--
 **maricastroc/maricastroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
