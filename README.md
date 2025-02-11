@@ -1,7 +1,6 @@
 # Mariana Castro 👩‍💻
 
-👋 Hello there! I’m Mariana and i'm a front-end developer.
-_(though, I gotta confess I’ve been flirting with backend lately, so maybe throw in 'PHP enthusiast' too?)_ 
+👋 Hello there! I’m Mariana and i'm a fullstack developer, mainly work with React.js and PHP / Laravel for application development.
 
  ⚡ I’m super passionate about tech and coding, and when I’m not 100% deep into a project, you’ll probably find me geeking out over new technologies. Oh, and I’m also a big fan of sports, beagles, and dark chocolate with mint (yes, it’s a thing!). I love working in teams and sharing knowledge, so feel free to hit me up for a chat or to brainstorm new ideas.
 
