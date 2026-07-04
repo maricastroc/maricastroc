@@ -1,10 +1,10 @@
 # Mariana Castro 👩‍💻
 
-👋 Hello there! I’m Mariana and i'm a fullstack developer, mainly working with React.js / Next.js and PHP / Laravel for application development.
+👋 Hi! I'm Mariana, a fullstack developer working mainly with React.js / Next.js and PHP / Laravel.
 
- ⚡ I’m super passionate about tech and coding, and when I’m not 100% deep into a project, you’ll probably find me geeking out over new technologies. Oh, and I’m also a big fan of sports, beagles, and dark chocolate with mint (yes, it’s a thing!). I love working in teams and sharing knowledge, so feel free to hit me up for a chat or to brainstorm new ideas.
+ ⚡ When I'm not heads-down in a project, you'll probably find me geeking out over new tech. I'm also into sports, beagles, and dark chocolate with mint (yes, it's a thing). I love working in teams and trading ideas. Feel free to reach out to chat or brainstorm.
 
-:runner: Fun fact: my best ideas tend to show up while I’m running and listening to geek culture podcasts!
+:runner: Fun fact: my best ideas tend to show up while I'm running and listening to geek culture podcasts.
 
 📫 How to reach me:
 
