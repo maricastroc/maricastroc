@@ -33,6 +33,8 @@
 </div>
 </div>
 
+<br>
+
 **Backend**
 
 <div style="display: grid; gap: 12px;">
@@ -45,6 +47,8 @@
 <img height="25" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 </div>
+
+<br>
 
 **Tools**
 
