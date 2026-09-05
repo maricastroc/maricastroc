@@ -2,13 +2,13 @@
 
 👋 Hi! I'm Mariana, a fullstack developer working mainly with React.js / Next.js and PHP / Laravel.
 
-⚡ When I'm not heads-down in a project, you'll probably find me geeking out over new tech. I'm also into sports, beagles, and dark chocolate with mint (yes, it's a thing). I love working in teams and trading ideas. Feel free to reach out to chat or brainstorm.
+Full-stack developer building tools that make complex information legible, trustworthy and auditable.
 
-🏃‍♀️ Fun fact: my best ideas tend to show up while I'm running and listening to geek culture podcasts.
+TypeScript / React / Next.js on the front, PHP / Laravel and Python on the back. Currently building digital-government tools at ÍRIS, the Government of Ceará's innovation and data lab.
 
 📫 How to reach me:
 - 🌐 Portfolio: [marianacastro.dev](https://marianacastro.dev)
-- 💼 [Mariana's Linkedin Profile](https://www.linkedin.com/in/mariana-castro-297586264/)
+- 💼 [Mariana's Linkedin Profile](https://www.linkedin.com/in/marianacastrorc)
 - Pronouns: she/her
 
 <hr>
