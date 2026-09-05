@@ -24,11 +24,14 @@ TypeScript / React / Next.js on the front, PHP / Laravel and Python on the back.
 
 ## 🏆 Experience
 
-**ÍRIS (Government of Ceará's Innovation and Data Lab)** · Full-stack Developer
-Building the *Ceará Sem Fome* platform (Laravel + React), a state food-security program managing the entities that reach people in extreme poverty.
+**ÍRIS (Government of Ceará's Innovation and Data Lab)** · Full-Stack Software Engineer · Mar 2023 to Present
+Web and mobile apps, REST integrations, and AI-powered and automation solutions for public-sector innovation.
 
-**LESC (Computer Engineering and Systems Lab, UFC)** · Developer
-IoT dashboard (Next.js) and a mobile app (Expo) for real-time monitoring of emergency medical devices.
+**Chief Scientist Program for Digital Transformation (Government of Ceará)** · Tech Lead & Full-Stack · Jul 2023 to Mar 2025
+Led the team behind the *Ceará Sem Fome* platform (React + PHP/Laravel), a state program against food insecurity, owning features from data modeling to production, plus reviews and tests.
+
+**LESC (Computer Engineering and Systems Lab, UFC)** · Tech Lead & Full-Stack · 2026 to Present
+An ERP for project management on a decoupled Python/Flask and React architecture (DDD, Clean Architecture), with financial-simulation modules and Docuseal e-signing.
 
 <hr>
 
@@ -39,18 +42,3 @@ IoT dashboard (Next.js) and a mobile app (Expo) for real-time monitoring of emer
 <hr>
 
 ✅ Open to collaborations on projects with social or technical impact. Reach out.
-
-<!--
-**maricastroc/maricastroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
