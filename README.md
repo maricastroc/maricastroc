@@ -1,67 +1,44 @@
 # Mariana Castro 👩‍💻
 
-👋 Hi! I'm Mariana, a fullstack developer working mainly with React.js / Next.js and PHP / Laravel.
+👋 Hi!
 
-Full-stack developer building tools that make complex information legible, trustworthy and auditable.
+I'm a full-stack developer building tools that make complex information legible, trustworthy and auditable.
 
 TypeScript / React / Next.js on the front, PHP / Laravel and Python on the back. Currently building digital-government tools at ÍRIS, the Government of Ceará's innovation and data lab.
 
 📫 How to reach me:
 - 🌐 Portfolio: [marianacastro.dev](https://marianacastro.dev)
-- 💼 [Mariana's Linkedin Profile](https://www.linkedin.com/in/marianacastrorc)
+- 💼 [Mariana's LinkedIn Profile](https://www.linkedin.com/in/marianacastrorc)
 - Pronouns: she/her
 
 <hr>
 
-## Languages and Tools:
+## 🚀 Selected work
 
-**Frontend**
+- **[Lucid](https://lucid.marianacastro.dev)**: a deterministic plain-language auditor (ISO 24495-1). An LLM proposes a rewrite; a deterministic engine verifies it. The fence between the two is enforced by the build.
+- **[Horizonte](https://horizonte.marianacastro.dev)**: a music player where the record has mass and mass bends space. A hand-written gravitational-lens shader and an in-browser FFT, held to the same numbers as an offline Python pipeline.
+- **[Access Check](https://access-check.marianacastro.dev)**: a visual accessibility inspector that audits any URL against WCAG 2.1 AA, ties every finding to the element that caused it, and verifies each fix against the live DOM.
+- **[Gauntlet](https://gauntlet.marianacastro.dev)**: a tournament engine where standings are a derived read-model, recomputed on every result and streamed over SSE, on a TypeScript/PHP core checked against shared conformance vectors.
 
-<div style="display: grid; gap: 12px;">
-<div>
-<img height="25" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img height="25" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-</div>
+<hr>
 
-<br>
+## 🏆 Experience
 
-**Backend**
+**ÍRIS (Government of Ceará's Innovation and Data Lab)** · Full-stack Developer
+Building the *Ceará Sem Fome* platform (Laravel + React), a state food-security program managing the entities that reach people in extreme poverty.
 
-<div style="display: grid; gap: 12px;">
-<div>
-<img height="25" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-</div>
+**LESC (Computer Engineering and Systems Lab, UFC)** · Developer
+IoT dashboard (Next.js) and a mobile app (Expo) for real-time monitoring of emergency medical devices.
 
-<br>
+<hr>
 
-**Tools**
+## 🛠️ Stack
 
-<div style="display: grid; gap: 12px;">
-<div>
-<img height="25" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-<div style="display: grid; gap: 12px;">
-<div>
+`TypeScript` · `React` · `Next.js` · `Node.js` · `Tailwind CSS` · `PHP` · `Laravel` · `Python` · `PostgreSQL` · `Docker`
+
+<hr>
+
+✅ Open to collaborations on projects with social or technical impact. Reach out.
 
 <!--
 **maricastroc/maricastroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
