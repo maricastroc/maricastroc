@@ -15,7 +15,7 @@ TypeScript / React / Next.js on the front, PHP / Laravel and Python on the back.
 
 ## 🚀 Selected work
 
-- **[Lucid](https://lucid.marianacastro.dev)**: a deterministic plain-language auditor (ISO 24495-1). An LLM proposes a rewrite; a deterministic engine verifies it. The fence between the two is enforced by the build.
+  - **[Understory](https://understory.marianacastro.dev)**: explains why a line of code exists, from the commits, pull requests, issues and reviews behind it. Every citation is checked against the real artifacts, and when the history is silent, it says so instead of inventing a reason.
 - **[Horizonte](https://horizonte.marianacastro.dev)**: a music player where the record has mass and mass bends space. A hand-written gravitational-lens shader and an in-browser FFT, held to the same numbers as an offline Python pipeline.
 - **[Access Check](https://access-check.marianacastro.dev)**: a visual accessibility inspector that audits any URL against WCAG 2.1 AA, ties every finding to the element that caused it, and verifies each fix against the live DOM.
 - **[Gauntlet](https://gauntlet.marianacastro.dev)**: a tournament engine where standings are a derived read-model, recomputed on every result and streamed over SSE, on a TypeScript/PHP core checked against shared conformance vectors.
